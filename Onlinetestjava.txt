@@ -118,8 +118,8 @@ class OnlineTest extends JFrame implements ActionListener
         }  
         if(current==4)  
         {  
-            l.setText("Que5: Which institute is best for java coaching?");  
-            jb[0].setText("Utek");jb[1].setText("Aptech");jb[2].setText("SSS IT");jb[3].setText("jtek");  
+            l.setText("Que5: Which type of inheritance is not supported in java?");  
+            jb[0].setText("single");jb[1].setText("heirarchial");jb[2].setText("multilevel");jb[3].setText("multiple");  
         }  
         if(current==5)  
         {  
