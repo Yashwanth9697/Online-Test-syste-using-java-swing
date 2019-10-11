@@ -164,7 +164,7 @@ class OnlineTest extends JFrame implements ActionListener
         if(current==3)  
             return(jb[0].isSelected());  
         if(current==4)  
-            return(jb[2].isSelected());  
+            return(jb[3].isSelected());  
         if(current==5)  
             return(jb[2].isSelected());  
         if(current==6)  
